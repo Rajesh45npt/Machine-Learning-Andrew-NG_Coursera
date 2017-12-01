@@ -1,1 +1,1 @@
-# Machine-Learning-Week7
+# Machine-Learning Programming Assignment from Coursera by Andrew NG
